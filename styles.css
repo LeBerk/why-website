@@ -1,0 +1,28 @@
+.header {
+    padding: 5px;
+    text-align: center;
+    background: #000000e8;
+    color: white;
+    font-size: 30px;
+    margin-left: -3cm;
+    margin-top: -1cm;
+    margin-right: -2cm;
+  }
+
+  .logo {
+      width: 5cm;
+      margin-right: 30cm;
+      margin-top: 1cm;
+  }
+
+ .second {
+    background-color: rgb(3, 3, 138);
+    padding: 5px;
+    color: rgba(255, 255, 255, 0.712);
+    margin-left: -3cm;
+    margin-top: -1cm;
+    margin-right: -2cm;
+    text-align: center;
+    height: 700px; 
+    font-size: 25px;
+}
